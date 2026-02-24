@@ -1,0 +1,33 @@
+# ── Secrets ──────────────────────────────────
+.env
+
+# ── Runtime data (regenerated on each run) ───
+session/
+data/
+logs/
+
+# ── Dev/debug output ────────────────────────
+inspect_output.txt
+
+# ── Python ───────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+
+# ── IDE ──────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# ── OS ───────────────────────────────────────
+Thumbs.db
+.DS_Store
